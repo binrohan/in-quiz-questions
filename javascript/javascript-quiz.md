@@ -644,3 +644,10 @@ new logThis();
 - [ ] stop()
 - [x] preventDefault()
 - [ ] prevent()
+
+#### Q63. Which method do you use to attach one DOM node to another?
+
+- [ ] getNode()
+- [ ] attachNode()
+- [x] appendChild()
+- [ ] querySelector()
